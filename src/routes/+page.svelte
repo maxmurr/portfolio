@@ -6,7 +6,6 @@
 </script>
 
 <svelte:head>
-	<title>maxmurr</title>
 	<meta name="description" content="Maxmurr portfolio app" />
 	<link rel="icon" type="image/png" href="/favicon.png" />
 </svelte:head>
