@@ -1,6 +1,6 @@
 <!-- svelte-ignore a11y-missing-attribute -->
 <script>
-	import AnimatedHamburger from '$lib/AnimatedHamburger.svelte';
+	import AnimatedHamburger from '../lib/AnimatedHamburger.svelte';
 	
 	export let open = false;
 	export const onClick = () => {
