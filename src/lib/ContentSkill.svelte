@@ -57,7 +57,7 @@
 				/></svg
 			>
 			<h2 class="text-base font-semibold tracking-wide px-2">
-				<a class="link link-hover text-info-content">maxmurr.m@gmail.com</a>
+				<a href="/" class="link link-hover text-info-content">maxmurr.m@gmail.com</a>
 			</h2>
 		</div>
 
@@ -70,10 +70,6 @@
 				>
 					<img src={item.src} alt={item.alt} />
 				</div>
-				<!-- <h4 class="text-xl font-medium text-gray-700 mt-4">HTML</h4>
-               <p class="text-base text-center text-gray-500 mt-2">
-                  Over 8 years of creating various websites of all types.
-               </p> -->
 			{/each}
 		</div>
 	</div>
