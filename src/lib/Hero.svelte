@@ -27,8 +27,8 @@
 			<div class="relative flex flex-col md:flex-row mt-4 justify-center">
 				<a
 					href="/"
-					class="p-5 flex flex-1 w-full items-center self-start justify-center md:px-5 md:py-2 mt-5 text-base font-medium leading-tight transition duration-150 ease-in-out bg-primary border border-transparent rounded-full shadow lg:py-4 focus:outline-none focus:shadow-gray-NaN md:text-lg xl:text-xl xl:px-10 hover:bg-primary-focus"
-					>Hire Me</a
+					class="p-5 flex light:text-white flex-1 w-full items-center self-start justify-center md:px-5 md:py-2 mt-5 text-base leading-tight transition duration-150 ease-in-out bg-primary font-semibold text-white border border-transparent rounded-full shadow lg:py-4 focus:outline-none focus:shadow-gray-NaN md:text-lg xl:text-xl xl:px-10 hover:bg-primary-focus"
+					>Resume</a
 				>
 			</div>
 		</div>
@@ -64,7 +64,7 @@
 			</div>
 		</a>
 	</div>
-	<div class="py-6 flex justify-center">
+	<div class="pt-8 flex justify-center">
 		<button class="animate-bounce cursor-default">
 			<ArrowDown />
 		</button>
