@@ -24,7 +24,7 @@
 				<a
 					href="/resume"
 					class="p-5 flex light:text-white flex-1 w-full items-center self-start justify-center md:px-5 md:py-2 mt-5 text-base leading-tight transition duration-150 ease-in-out bg-primary font-semibold text-white border border-transparent rounded-full shadow lg:py-4 focus:outline-none focus:shadow-gray-NaN md:text-lg xl:text-xl xl:px-10 hover:bg-primary-focus"
-					>Resume</a
+					>Curriculum Vitae</a
 				>
 			</div>
 		</div>
