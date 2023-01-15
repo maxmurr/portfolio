@@ -25,7 +25,7 @@
 
 <svelte:window bind:scrollY={y} />
 
-<section class="bg-base-200 z-50 sticky top-0 backdrop-blur-sm transition-transform ease-in" class:motion-safe:-translate-y-full={offscreen}
+<section class="bg-base-200/95 z-50 sticky top-0 backdrop-blur-sm transition-transform ease-in" class:motion-safe:-translate-y-full={offscreen}
 bind:clientHeight={clientHeight}
 >
 	<nav
