@@ -34,6 +34,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@sveltejs/adapter-auto": "^1.0.1",
 		"@tailwindcss/typography": "^0.5.9",
 		"daisyui": "^2.46.1"
 	}
