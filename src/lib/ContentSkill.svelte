@@ -43,7 +43,7 @@
 		<p class="mt-2 text-lg text-center py-4">
 			Check out a list of the coding languages I'm proficient in.
 		</p>
-		<div class="flex items-center justify-center">
+<!-- 		<div class="flex items-center justify-center">
 			<svg
 				xmlns="http://www.w3.org/2000/svg"
 				width="1em"
@@ -59,7 +59,7 @@
 			<h2 class="text-base font-semibold tracking-wide px-2">
 				<a href="/" class="link link-hover text-info-content">maxmurr.m@gmail.com</a>
 			</h2>
-		</div>
+		</div> -->
 
 		<div
 			class="mb-8 md:mb-0 flex flex-row flex-wrap justify-center items-center col-span-3 px-8 py-12 sm:rounded-xl"
