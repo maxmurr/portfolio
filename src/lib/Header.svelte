@@ -81,7 +81,7 @@ bind:clientHeight={clientHeight}
 					<a href="/"class="py-3 cursor-pointer hover:text-white">Portfolio</a>
 					<a href="/" class="py-3 cursor-pointer hover:text-white">Contact</a>
 					<a
-						href="/"class="py-3 cursor-pointe btn bg-white hover:bg-white rounded-full transition ease-in-out text-black"
+						href="/"class="py-3 cursor-pointe btn bg-white hover:bg-white border-none rounded-full transition ease-in-out text-black"
 						>Hire me</a
 					>
 				</div>
