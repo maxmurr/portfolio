@@ -36,7 +36,7 @@
 		class="max-w-7xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:px-8 text-center"
 	>
 		<p
-			class="mt-1 text-4xl font-extrabold text-info sm:text-5xl sm:tracking-tight lg:text-6xl"
+			class="mt-1 text-4xl font-extrabold sm:text-5xl sm:tracking-tight lg:text-6xl"
 		>
 			My Skills
 		</p>
