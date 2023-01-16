@@ -58,7 +58,7 @@ bind:clientHeight={clientHeight}
 				class="flex flex-col justify-center w-full mt-4 space-y-2 md:mt-0 md:flex-row md:space-x-6 lg:space-x-10 xl:space-x-16 md:space-y-0"
 			>
 				<a href="/" class="py-3 cursor-pointer hover:text-white">Home</a>
-				<a href="/" class="py-3 cursor-pointer hover:text-white">Portfolio</a>
+				<a href="#portfolio" class="py-3 cursor-pointer hover:text-white">Portfolio</a>
 				<a href="/" class="py-3 cursor-pointer hover:text-white">Contact</a>
 			</div>
 		</div>
@@ -78,7 +78,7 @@ bind:clientHeight={clientHeight}
 					class="flex flex-col justify-center w-full mt-4 space-y-2 md:mt-0 md:flex-row md:space-x-6 lg:space-x-10 xl:space-x-16 md:space-y-0"
 				>
 					<a href="/"class="py-3 cursor-pointer hover:text-white">Home</a>
-					<a href="/"class="py-3 cursor-pointer hover:text-white">Portfolio</a>
+					<a href="#portfolio"class="py-3 cursor-pointer hover:text-white">Portfolio</a>
 					<a href="/" class="py-3 cursor-pointer hover:text-white">Contact</a>
 					<a
 						href="/"class="py-3 cursor-pointe btn bg-white capitalize hover:bg-white border-none rounded-full transition ease-in-out text-black"
