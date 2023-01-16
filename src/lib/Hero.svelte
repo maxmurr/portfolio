@@ -61,7 +61,7 @@
 		</a>
 	</div>
 	<div class="pt-8 flex justify-center">
-		<button class="animate-bounce cursor-default text-white light:text-black">
+		<button class="animate-bounce cursor-default">
 			<svg
 	xmlns="http://www.w3.org/2000/svg"
 	width="100"
