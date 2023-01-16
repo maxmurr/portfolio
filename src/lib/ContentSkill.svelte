@@ -31,7 +31,7 @@
 	];
 </script>
 
-<section class="h-auto bg-base-300">
+<section id="skills" class="h-auto bg-base-300">
 	<div
 		class="max-w-7xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:px-8 text-center"
 	>
