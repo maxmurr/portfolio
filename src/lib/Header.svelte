@@ -29,7 +29,7 @@
 bind:clientHeight={clientHeight}
 >
 	<nav
-		class="relative py-2 px-6 mx-auto md:px-0 max-w-7xl md:flex md:justify-between md:items-center"
+		class="relative py-6 md:py-3 px-6 mx-auto md:px-0 max-w-7xl md:flex md:justify-between md:items-center"
 	>
 		<div class="relative z-20 flex items-center justify-between">
 			<div>
