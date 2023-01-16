@@ -25,11 +25,11 @@
 
 <svelte:window bind:scrollY={y} />
 
-<section class="bg-black/95 z-50 sticky top-0 backdrop-blur-sm transition-transform ease-in" class:motion-safe:-translate-y-full={offscreen}
+<section class="bg-base-200 z-50 sticky top-0 backdrop-blur-sm transition-transform ease-in" class:motion-safe:-translate-y-full={offscreen}
 bind:clientHeight={clientHeight}
 >
 	<nav
-		class="relative pt-6 pb-6 px-6 mx-auto md:px-0 md:pb-6 max-w-7xl md:flex md:justify-between md:items-center"
+		class="relative py-2 px-6 mx-auto md:px-0 max-w-7xl md:flex md:justify-between md:items-center"
 	>
 		<div class="relative z-20 flex items-center justify-between">
 			<div>
