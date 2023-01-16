@@ -4,7 +4,7 @@
 
 @layer base {
 	html {
-		@apply h-full scroll-pt-16 antialiased;
+		@apply h-full scroll-smooth antialiased;
 	}
 
 	body {
@@ -19,7 +19,4 @@
 		@apply min-h-screen flex flex-col;
 	}
 	
-	section {
-		@apply scroll-smooth
-	}
 }
