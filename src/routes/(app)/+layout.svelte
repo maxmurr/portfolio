@@ -4,7 +4,7 @@
 </script>
 
 <body>
-	<div class="app" html-theme="lofi">
+	<div class="app" data-theme="lofi">
 		<Header />
 		<main>
 			<slot />
