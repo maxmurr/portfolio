@@ -20,6 +20,6 @@
 	}
 	
 	section {
-		@apply overflow-y-scroll scroll-smooth
+		@apply scroll-smooth
 	}
 }
