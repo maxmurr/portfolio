@@ -215,7 +215,7 @@ pdf2htmlEX.defaultViewer = new pdf2htmlEX.Viewer({});
 <title></title>
 </head>
 
-<body data-theme="light" class="text-black">
+<body>
 <div id="sidebar">
 <div id="outline">
 </div>
