@@ -18,4 +18,8 @@
 	.app {
 		@apply min-h-screen flex flex-col;
 	}
+	
+	section {
+		@apply overflow-y-scroll scroll-smooth
+	}
 }
