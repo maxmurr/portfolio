@@ -1,5 +1,5 @@
 <section
-	class="relative md:flex flex-col items-center justify-center w-full px-8 bg-base-200 bg-cover min-w-screen "
+	class="relative md:flex flex-col items-center justify-center w-full px-8 pt-8 bg-base-200 bg-cover min-w-screen "
 >
 	<div
 		class="flex flex-col items-center justify-center mx-auto sm:p-6 xl:p-8 lg:flex-row lg:max-w-6xl lg:p-0 md:mt-16"
